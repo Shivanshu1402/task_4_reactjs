@@ -1,0 +1,28 @@
+.age{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.AgeHead{
+    font-size: 4rem;
+    font-family: monospace;
+}
+.inputbox{
+    border: none;
+    width:20rem;
+    margin: 1rem;
+    padding: 1rem;
+    background: rgb(177, 176, 176);
+    color: white;
+    border-radius: 1rem;
+    font-size: 1rem
+}
+
+.btn{
+    border: none;
+    background-color: palegreen;
+    padding: 0.5rem 3rem;
+    border-radius: 0.5rem;
+}
